@@ -6,7 +6,11 @@ PyThreadFlow is a Python threading extension that simplifies and enhances thread
 
 ## How can I download PyThreadFlow?
 
-Currently, the information on how to download PyThreadFlow is to be determined (TBD). We apologize for the inconvenience and recommend checking the official PyThreadFlow documentation or the project repository for updates on the download process.
+for the moment, you can download it using this command:
+
+```bash
+pip install -i https://test.pypi.org/simple/ PyThreadFlow==0.0.4.dev2
+```
 
 ## How can I use PyThreadFlow?
 
