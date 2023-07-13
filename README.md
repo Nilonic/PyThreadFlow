@@ -1,4 +1,4 @@
-# PyThreadFlow V0.0.4.dev2
+# PyThreadFlow V0.0.1.dev1
 
 [skip to changes](https://github.com/nilonic/PyThreadFlow#changes)
 
