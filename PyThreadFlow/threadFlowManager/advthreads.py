@@ -73,6 +73,7 @@ class basicEventThread():
 
     def stop(self):
         globals()['running'] = False
+        print("waiting for thread to stop...")
         self.ml.join()
 
     def instanceChecker(self):
