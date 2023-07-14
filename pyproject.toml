@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "PyThreadFlow"
-version = "0.0.0.dev2"
+version = "0.0.0.dev3"
 authors = [
   { name="Nilonic", email="nilonic.suggestions@gmail.com" },
 ]
