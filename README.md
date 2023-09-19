@@ -43,7 +43,7 @@ PyThreadFlow aims to maintain a syntax similar to regular threads, and it tries 
 
 ## How can I contribute to PyThreadFlow?
 
-If you are interested in contributing to PyThreadFlow, please refer to the official documentation [here](https://nilonic.github.io/PyThreadFlow/contributing.html) for detailed guidelines and instructions. The documentation provides information on how you can get involved and contribute to the project's development.
+If you are interested in contributing to PyThreadFlow, please refer to the official documentation [here](https://github.com/Nilonic/PyThreadFlow/blob/main/docs/contributing.md) for detailed guidelines and instructions. The documentation provides information on how you can get involved and contribute to the project's development.
 
 ## Changes
 
