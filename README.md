@@ -45,6 +45,10 @@ PyThreadFlow aims to maintain a syntax similar to regular threads, and it tries 
 
 If you are interested in contributing to PyThreadFlow, please refer to the official documentation [here](https://github.com/Nilonic/PyThreadFlow/blob/main/docs/contributing.md) for detailed guidelines and instructions. The documentation provides information on how you can get involved and contribute to the project's development.
 
+## Licence
+
+This project is under the Python Packaging Authority licnese (or MIT licence, i'm not too sure)
+
 ## Changes
 
 1. **Added framework for legacy, deprecated, and more wrappers**: This update includes the addition of a framework that handles legacy, deprecated, and other types of wrappers. This framework allows for better management and organization of different types of wrappers within the system. By implementing this framework, it becomes easier to identify and handle code that needs to be phased out or replaced due to being outdated or no longer supported. It also facilitates the introduction of new wrappers or modifications to existing ones.
