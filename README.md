@@ -47,7 +47,7 @@ If you are interested in contributing to PyThreadFlow, please refer to the offic
 
 ## Licence
 
-This project is under the Python Packaging Authority licnese (or MIT licence, i'm not too sure)
+This project is under the [Python Packaging Authority licnese](https://github.com/Nilonic/PyThreadFlow/blob/main/LICENCE) (or MIT licence, i'm not too sure)
 
 ## Changes
 
